@@ -33,4 +33,4 @@ NFC чип должен быть произодства NXP [wikipedia.org/wiki/
 
 <!-- prove gshevtsov on 4PDA.ru -->
 
-kotiki spasut mir
+kotiki spasut mir korobka s karandashami
